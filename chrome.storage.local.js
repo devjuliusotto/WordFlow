@@ -44,7 +44,7 @@ async function fetchTranslation(text, targetLanguage) {
   }
 
   // 2. Se não está em cache, chama a API
-  const apiKey = "YOUR_API_KEY"; // substitua pela sua chave
+  const apiKey = "SuaCredencialDaAPI"; // substitua pela sua chave
   // Adicione `&source=auto` se quiser que a API detecte o idioma automaticamente.
   const url = `https://translation.googleapis.com/language/translate/v2?key=${apiKey}&q=${encodeURIComponent(
     text

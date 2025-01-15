@@ -35,7 +35,7 @@ async function getUserLanguage() {
  * Retorna somente o texto traduzido (string).
  */
 async function fetchTranslation(text, targetLanguage) {
-  const apiKey = "AIzaSyBTPZkZMuihI4TJKpPFEeLHPRHKnKVbHNA"; // Substitua pela sua chave
+  const apiKey = "SuaCredencialDaAPI"; // Substitua pela sua chave
   const url = `https://translation.googleapis.com/language/translate/v2?key=${apiKey}&q=${encodeURIComponent(
     text
   )}&target=${targetLanguage}`;
