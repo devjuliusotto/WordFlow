@@ -1,7 +1,9 @@
 # WordFlow Project - By Julius Otto
 
 ## Descrição
-Traduz rapidamente palavras selecionadas para o seu idioma de escolha.
+Traduz rapidamente palavras selecionadas para o seu idioma de escolha e te auxília na pronúncia da palavra.
+
+Em resumo, essa extensão foi desenvolvido com foco para utilização no google chrome visando melhorar a praticidade na leitura de documentos técnicos em outro idioma que posssam vir a ter alguma palavra que não seja de seu conhecimento geral.
 
 ### Veja o funcionamento no GIF abaixo:
 
