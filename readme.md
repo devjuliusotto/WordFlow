@@ -1,8 +1,9 @@
-# Dicionário Contextual
+# WordFlow Project - By Julius Otto
 
 ## Descrição
-Traduz rapidamente palavras selecionadas para o seu idioma preferido.  
-(Descreva mais detalhes aqui...)
+Traduz rapidamente palavras selecionadas para o seu idioma de escolha.
+
+### Veja o funcionamento no GIF abaixo:
 
 ## Como Instalar
 1. Faça o download ou clone o repositório.
