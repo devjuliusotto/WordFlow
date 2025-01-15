@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title><span class="i18n" data-message="optionsTitle"></span></title>
+</head>
+<body>
+  <h1><span class="i18n" data-message="optionsTitle"></span></h1>
+  <label for="language">Escolha o idioma de destino:</label>
+  <select id="language">
+    <option value="pt">Português</option>
+    <option value="en">English</option>
+    <option value="es">Español</option>
+    <option value="de">Deutsch</option>
+  </select>
+  <button id="save">
+    <span class="i18n" data-message="saveButton"></span>
+  </button>
+  <script src="options.js"></script>
+  <script>
+    // Exemplo de como carregar as strings i18n:
+    document.addEventListener('DOMContentLoaded', () => {
+      const elements = document.querySelectorAll('.i18n');
+      elements.forEach(el => {
+        const messageName = el.getAttribute('data-message');
+        el.textContent = chrome.i18n.getMessage(messageName);
+      });
+    });
+  </script>
+</body>
+</html>

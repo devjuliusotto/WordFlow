@@ -1,0 +1,21 @@
+{
+    "appName": {
+      "message": "Kontextwörterbuch"
+    },
+    "appDescription": {
+      "message": "Übersetze ausgewählte Wörter in deine bevorzugte Sprache."
+    },
+    "optionsTitle": {
+      "message": "Übersetzungseinstellungen"
+    },
+    "saveButton": {
+      "message": "Speichern"
+    },
+    "helpPageTitle": {
+      "message": "Hilfe – Wie verwende ich diese Erweiterung?"
+    },
+    "helpText": {
+      "message": "Wähle beliebigen Text auf einer Webseite aus, um die Übersetzung zu sehen. Du kannst auch auf die Audio-Schaltfläche klicken, um die Aussprache zu hören. Gehe zu Optionen, um deine bevorzugte Sprache zu ändern."
+    }
+  }
+  

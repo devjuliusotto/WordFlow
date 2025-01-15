@@ -1,0 +1,21 @@
+{
+    "appName": {
+      "message": "Dicionário Contextual"
+    },
+    "appDescription": {
+      "message": "Traduza palavras selecionadas para o seu idioma preferido."
+    },
+    "optionsTitle": {
+      "message": "Configurações de Tradução"
+    },
+    "saveButton": {
+      "message": "Salvar"
+    },
+    "helpPageTitle": {
+      "message": "Ajuda - Como usar esta extensão?"
+    },
+    "helpText": {
+      "message": "Selecione qualquer texto em uma página para ver sua tradução. Você também pode clicar no botão de áudio para ouvir a pronúncia. Vá em Opções para mudar o idioma preferido."
+    }
+  }
+  

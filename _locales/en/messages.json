@@ -1,0 +1,21 @@
+{
+    "appName": {
+      "message": "Contextual Dictionary"
+    },
+    "appDescription": {
+      "message": "Translate selected words into your preferred language."
+    },
+    "optionsTitle": {
+      "message": "Translation Settings"
+    },
+    "saveButton": {
+      "message": "Save"
+    },
+    "helpPageTitle": {
+      "message": "Help - How to use this extension?"
+    },
+    "helpText": {
+      "message": "Select any text on a webpage to see its translation. You can also click the audio button to hear the pronunciation. Go to Options to change your preferred language."
+    }
+  }
+  

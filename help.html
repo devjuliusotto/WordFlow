@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title><span class="i18n" data-message="helpPageTitle"></span></title>
+</head>
+<body>
+  <h1><span class="i18n" data-message="helpPageTitle"></span></h1>
+  <p>
+    <span class="i18n" data-message="helpText"></span>
+  </p>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const elements = document.querySelectorAll('.i18n');
+      elements.forEach(el => {
+        const messageName = el.getAttribute('data-message');
+        el.textContent = chrome.i18n.getMessage(messageName);
+      });
+    });
+  </script>
+</body>
+</html>
