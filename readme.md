@@ -5,6 +5,10 @@ Traduz rapidamente palavras selecionadas para o seu idioma de escolha e te auxí
 
 Em resumo, essa extensão foi desenvolvido com foco para utilização no google chrome visando melhorar a praticidade na leitura de documentos técnicos em outro idioma que posssam vir a ter alguma palavra que não seja de seu conhecimento geral.
 
+## Idiomas
+Atualmente desenvolvi com foco nos 4 idiomas que mais costumo utilizar, mas sinta-se livrar pra criar novas funcionalidades ou adicionar um novo idioma no projeto. 
+
+
 ### Veja o funcionamento no GIF abaixo:
 
 ## Como Instalar
